@@ -38,6 +38,9 @@ After that, I installed mongoDB and connected the database.
 
 Then I changed the local host IP under the env file and made it accessible from anywhere 0.0.0.0 under port 5173.
 
+**Frontend running view**
+![image](https://github.com/Rupam200116/-Virtualisation-on-AWS-EC2/assets/102980397/0afa400e-232f-40f1-a792-ec9deedd5c78)
+
 
 **Live Project**
 https://wanderlust-beta.vercel.app/
